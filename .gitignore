@@ -1,0 +1,11 @@
+# First, ignore everything
+*
+# Now, whitelist anything that's a directory
+!*/
+
+# If you want to include files within that folder, unignore them explicitly
+!dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/**
+!data/db/fifa_ng_db.db
+!data/db/fifa_ng_db-meta.xml
+!data/loc/eng_us.db
+
