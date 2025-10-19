@@ -4,7 +4,7 @@
 !*/
 
 # If you want to include files within that folder, unignore them explicitly
-!dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/**
+!dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/**.txt
 !data/db/fifa_ng_db.db
 !data/db/fifa_ng_db-meta.xml
 !data/loc/eng_us.db
