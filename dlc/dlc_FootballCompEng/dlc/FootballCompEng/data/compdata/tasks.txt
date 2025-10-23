@@ -37,14 +37,11 @@
 14,start,FillFromCompTable,20,1589,5,0
 70,start,FillFromCompTable,72,137,1,0
 70,start,FillFromCompTable,72,1621,1,0
-70,start,FillFromCompTable,73,1516,1,0
-70,start,FillFromCompTable,73,1407,1,0
+70,start,FillFromCompTableBackupLeague,73,1516,183,1
+70,start,FillFromCompTableBackupLeague,73,1407,341,1
 70,start,FillWithTeam,74,1,110930,0
 70,start,FillWithTeam,74,2,110929,0
 70,start,FillFromCompTableBackupLeague,75,1571,350,1
-70,start,FillWithTeam,75,2,130035,0
-70,start,FillWithTeam,75,3,130091,0
-70,start,FillWithTeam,75,4,130186,0
 87,end,UpdateTable,87,99,1,1
 87,end,UpdateTable,87,99,2,2
 87,end,UpdateTable,87,94,1,3

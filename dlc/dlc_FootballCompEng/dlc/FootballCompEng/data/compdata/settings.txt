@@ -152,7 +152,7 @@
 76,match_matchsituation,ROUNDX
 76,match_stadium,262
 76,match_stadium,196
-76,info_prize_money,100000
+76,info_prize_money,1000000
 77,num_games,1
 78,num_games,1
 79,match_stagetype,KO1LEG
