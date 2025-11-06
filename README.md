@@ -4,31 +4,31 @@ First install:
 
 1. Unpack Moddingway 20.0 All in one ([link](https://archive.org/download/fifa15-moddingway-mods/F15-MWM-2000-AIO.rar)) in FIFA 15 root folder
 2. Run "ModdingWayInstaller.exe" as admin > Install
-3. Run "FIFA 15 MWM Selector.exe" > Select Database 13.0 > apply database
+3. Run "FIFA 15 MWM Selector.exe" > Select Database 13.0 > apply database (latest database not working on CM15)
 4. Run CM15 Ultimate ([link](https://www.mediafire.com/file/uy2mwy7cy74a40w/Creation+Master+15+Ultimate.rar/file)) > File / Open Select lan.db > Tools / Regenerate BH > File / Save
 
 ## Current used compdata spaces:
 
-  3421 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt
-    88 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compids.txt
-  1721 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt
-   300 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/initteams.txt
-  5410 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt
-  3544 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt
-  5201 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt
-   783 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/tasks.txt
+  3421 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
+    88 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compids.txt  
+  1721 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
+   300 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/initteams.txt  
+  5410 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt  
+  3544 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
+  5201 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
+   783 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/tasks.txt  
  20468 total
 
 Limits:
 
-- Advancement 3438/3549
-- Compids 94/99
-- Compobj 1790/1809
-- Initteams 256/366
-- Schedule 6449/6995
-- Settings 3750/3752
-- Standings 5274/5278(5274)
-- Tasks 791/800
+- Advancement 3549
+- Compids 99
+- Compobj 1809
+- Initteams 366
+- Schedule 6995
+- Settings 3752
+- Standings 5278(5274)
+- Tasks 800
 
 -----
 
