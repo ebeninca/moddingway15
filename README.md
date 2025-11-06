@@ -30,8 +30,6 @@ Limits:
 - Standings 5278(5274)
 - Tasks 800
 
------
-
 ## Modifications list
 
 Next up:
@@ -41,6 +39,10 @@ Next up:
 - SARB King cup of champions removed to free spaces (breaking on 4/OCT)
 
 v003
+- Review Liga do Brasil Names, Opponents and Stadiums
+- Adjust colors on all competitions
+- Renamed Continental Competitions to real names
+- Review Nation Teams Stadiums
 - CCAF and AFC starting in JUL to fix continental competitions reset
 - Chinese and Korean Leagues renamed
 
