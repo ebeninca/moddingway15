@@ -34,23 +34,30 @@ Limits:
 
 ## Modifications list
 
+Next up:
+- Renaming Leagues broke the name of teams that doesn't have Short names defined (15 chars or less), needs fix !!!
+- AFC Champions League 24 Teams
+- ASTR League with Third Place definition
+- SARB King cup of champions removed to free spaces (breaking on 4/OCT)
+
+v003
+- CCAF and AFC starting in JUL to fix continental competitions reset
+- Chinese and Korean Leagues renamed
+
+
 v002
+- FIFA WC with Playoff matches and WC Qualifiers tree working.
+- 3 IREL teams on ROTW: Dundalk, Shamrock, Bohemians
+- National teams results target adjusted
+- Asian and Concacaf Cups working: schedule_internationaldependency
+- Friendly removed to free standings.txt spots (Maybe redo Confed cup)
+- Slots on European replaced by:
+  - Champions cup Setup/G3: 1 Italian League (6)
+  - Euro league Setup/G3: 1 Austrian League (4), 1 Norway League (4), 1 England League (6)
+- IRELAND REMOVED: SSE Artricity League and EA Sports cup
 
-FIFA WC with Playoff matches and WC Qualifiers tree working.
-
-3 IREL teams on ROTW: Dundalk, Shamrock, Bohemians
-National teams results target adjusted
-
-Asian and Concacaf Cups working: schedule_internationaldependency
-Friendly removed to free standings.txt spots (Maybe redo Confed cup)
-
-Slots on European replaced by:
--Champions cup Setup/G3: 1 Italian League (6)
--Euro league Setup/G3: 1 Austrian League (4), 1 Norway League (4), 1 England League (6)
-
-IRELAND REMOVED:
-SSE Artricity League
-EA Sports cup
+v001
+- Working with original files + FIFA CWC 6 teams
 
 ## Check compdata usage
 
