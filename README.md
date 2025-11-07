@@ -33,13 +33,12 @@ Limits:
 ## Modifications list
 
 Next up:
-- Renaming Leagues broke the name of teams that doesn't have Short names defined (15 chars or less), needs fix !!!
 - AFC Champions League 24 Teams
 - ASTR League with Third Place definition
 - SARB King cup of champions removed to free spaces (breaking on 4/OCT)
 
 v003
-- Review Liga do Brasil Names, Opponents and Stadiums
+- FIX (Names broken after rename Chinese League): Revised all teams: Names, Managers, Stadiums, Opponents
 - Adjust colors on all competitions
 - Renamed Continental Competitions to real names
 - Review Nation Teams Stadiums
