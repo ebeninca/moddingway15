@@ -3062,6 +3062,9 @@
 1529,info_prize_money_drop,10
 1530,num_games,2
 1530,info_color_slot_champ,1
+1530,info_color_slot_champ_cup,2
+1530,info_color_slot_champ_cup,3
+1530,info_slot_champ,1
 1531,nation_id,183
 1531,rule_suspension,1531
 1531,schedule_seasonstartmonth,JUL
@@ -3106,11 +3109,10 @@
 1553,standings_sort,GOALSFOR
 1554,num_games,2
 1554,info_color_slot_champ,1
-1554,info_color_slot_adv_group,2
-1554,info_color_slot_adv_group,3
-1554,info_color_slot_adv_group,4
-1554,info_color_slot_adv_group,5
-1554,info_color_slot_adv_group,6
+1554,info_color_slot_champ_cup,2
+1554,info_color_slot_champ_cup,3
+1554,info_color_slot_champ_cup,4
+1554,info_color_slot_promo_poss,5
 1554,info_slot_champ,1
 1555,asset_id,550
 1555,comp_type,CUP
@@ -3143,6 +3145,10 @@
 1570,info_prize_money_drop,10
 1571,num_games,2
 1571,info_color_slot_champ,1
+1571,info_color_slot_champ_cup,2
+1571,info_color_slot_champ_cup,3
+1571,info_color_slot_champ_cup,4
+1571,info_slot_champ,1
 1572,schedule_seasonstartmonth,JAN
 1572,match_matchimportance,80
 1573,asset_id,992

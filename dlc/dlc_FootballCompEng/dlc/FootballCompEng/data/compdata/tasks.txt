@@ -575,10 +575,6 @@
 1457,start,FillWithTeam,1459,6,974,0
 1457,start,FillWithTeam,1459,7,111527,0
 1457,start,FillWithTeam,1459,8,111114,0
-1460,end,UpdateTable,1460,1472,1,1
-1460,end,UpdateTable,1460,1472,2,2
-1460,end,UpdateTable,1460,1470,2,4
-1460,end,UpdateTable,1460,1470,1,3
 1460,start,FillWithTeam,1462,1,1415,0
 1460,start,FillWithTeam,1462,2,111466,0
 1460,start,FillWithTeam,1462,3,1413,0
