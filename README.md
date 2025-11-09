@@ -33,11 +33,11 @@ Limits:
 ## Modifications list
 
 Next up:
-- AFC Champions League 24 Teams
-- ASTR League with Third Place definition
 - SARB King cup of champions removed to free spaces (breaking on 4/OCT)
 
 v003
+- AFC Champions League 24 Teams
+- ASTR League with Third Place definition
 - FIX (Names broken after rename Chinese League): Revised all teams: Names, Managers, Stadiums, Opponents
 - Adjust colors on all competitions
 - Renamed Continental Competitions to real names
