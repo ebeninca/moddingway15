@@ -9,15 +9,15 @@ First install:
 
 ## Current used compdata spaces:
 
-  3421 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
+  3490 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
     88 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compids.txt  
-  1721 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
-   300 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/initteams.txt  
-  5410 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt  
-  3544 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
-  5201 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
+  1746 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
+   301 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/initteams.txt  
+  5405 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt  
+  3659 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
+  5277 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
    783 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/tasks.txt  
- 20468 total
+ 20749 total
 
 Limits:
 
@@ -36,6 +36,7 @@ Next up:
 - SARB King cup of champions removed to free spaces (breaking on 4/OCT)
 
 v003
+- FIFA WC UEFA Qualifiers redone
 - AFC Champions League 24 Teams
 - ASTR League with Third Place definition
 - FIX (Names broken after rename Chinese League): Revised all teams: Names, Managers, Stadiums, Opponents
