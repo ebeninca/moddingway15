@@ -517,8 +517,8 @@
 1333,start,FillFromCompTable,1335,1416,2,0
 1333,start,FillFromCompTable,1335,1374,2,0
 1333,start,FillFromCompTable,1335,1345,2,0
-1333,start,FillFromLeagueMaxFromCountry,1335,39,1,4
-1333,start,FillFromLeagueMaxFromCountry,1335,341,1,4
+1333,start,FillFromLeagueMaxFromCountry,1335,39,4,4
+1333,start,FillFromLeagueMaxFromCountry,1335,341,4,4
 1345,end,UpdateTable,1345,1373,1,1
 1345,end,UpdateTable,1345,1373,2,2
 1345,start,FillFromLeague,1347,39,0,0
@@ -590,6 +590,7 @@
 1448,start,FillFromCompTable,1450,1485,3,0
 1448,start,FillFromCompTable,1450,1503,3,0
 1448,start,FillFromCompTable,1450,1544,4,0
+1448,start,FillFromLeagueMaxFromCountry,1450,351,3,3
 1448,start,FillWithTeam,1451,1,130188,0
 1448,start,FillWithTeam,1451,2,111727,0
 1448,start,FillWithTeam,1451,3,111701,0
@@ -678,6 +679,7 @@
 1578,start,FillFromCompTable,1581,1665,1,0
 1578,start,FillFromCompTable,1581,1675,1,0
 1578,start,FillFromSpecialTeams,1581,4,0,0
+1578,start,FillFromLeagueMaxFromCountry,1581,336,2,2
 1619,end,UpdateTable,1619,1649,1,1
 1619,end,UpdateTable,1619,1649,2,2
 1619,start,FillFromCompTable,1621,1654,3,0
@@ -687,6 +689,7 @@
 1619,start,FillFromCompTable,1621,1665,1,0
 1619,start,FillFromCompTable,1621,1675,1,0
 1619,start,FillFromSpecialTeams,1621,6,0,0
+1619,start,FillFromLeagueMaxFromCountry,1621,336,2,2
 1650,start,FillFromCompTable,1652,1578,1,0
 1650,start,FillFromCompTableBackup,1652,1619,1619,1
 1654,end,UpdateTable,1654,1656,1,1

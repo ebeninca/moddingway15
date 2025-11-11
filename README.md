@@ -35,6 +35,9 @@ Limits:
 Nextup:
 
 v004
+- Adjusted failsafe for CONCA Champions
+- Failsafe for AUST on AFC Champions
+  Failsafe for COLB on Libertadores/Sudamericana
 - Failsafe config on Libertadores to avoid TBD in rare case where a Rest of the world team wins the competition and gets automatic qualification to next year edition
 - "Setup Stage > Special Standing Rules > Team Rating" for Libertadores
 - Ajusted mexican apertura/clausura qual for CONCAChampions
