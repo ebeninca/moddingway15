@@ -32,7 +32,12 @@ Limits:
 
 ## Modifications list
 
+Nextup:
+
 v004
+- Failsafe config on Libertadores to avoid TBD in rare case where a Rest of the world team wins the competition and gets automatic qualification to next year edition
+- "Setup Stage > Special Standing Rules > Team Rating" for Libertadores
+- Ajusted mexican apertura/clausura qual for CONCAChampions
 - Adjusted dates for UEFA Qualifiers
 - FIFA WC: One less slot for UEFA, one more for AFC
 

@@ -3215,6 +3215,7 @@
 1578,schedule_seasonstartmonth,FEB
 1578,match_matchimportance,95
 1579,match_stagetype,SETUP
+1579,standings_sort,TEAMRATING
 1579,info_special_team_id,120029
 1579,info_special_team_id,120030
 1579,info_special_team_id,120037
