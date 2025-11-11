@@ -9,15 +9,15 @@ First install:
 
 ## Current used compdata spaces:
 
-  3490 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
-    88 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compids.txt  
-  1746 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
-   301 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/initteams.txt  
-  5405 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt  
-  3659 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
-  5277 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
-   783 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/tasks.txt  
- 20749 total
+  3486 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
+    86 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compids.txt  
+  1719 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
+   304 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/initteams.txt  
+  5404 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt  
+  3635 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
+  5259 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
+   784 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/tasks.txt  
+ 20677 total
 
 Limits:
 
@@ -32,8 +32,9 @@ Limits:
 
 ## Modifications list
 
-Next up:
-- SARB King cup of champions removed to free spaces (breaking on 4/OCT)
+v004
+- Adjusted dates for UEFA Qualifiers
+- FIFA WC: One less slot for UEFA, one more for AFC
 
 v003
 - EURO Qualifiers redone, EURO with 24 teams
