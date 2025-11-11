@@ -36,6 +36,8 @@ Next up:
 - SARB King cup of champions removed to free spaces (breaking on 4/OCT)
 
 v003
+- EURO Qualifiers redone, EURO with 24 teams
+- SCOT cup and AUST cup removed to free spaces, european slots replaced by respective leagues
 - FIFA WC UEFA Qualifiers redone
 - AFC Champions League 24 Teams
 - ASTR League with Third Place definition
