@@ -33,8 +33,12 @@ Limits:
 ## Modifications list
 
 Nextup:
+- Remove some european cups to create space for ARGE and BRAZ cups
+- As consequence, Adjust Liberadores setup 
 
 v004
+- CONCA Champions reworked Group Setup 
+- Reworked MLS to fix wrong brackets
 - Adjusted failsafe for CONCA Champions
 - Failsafe for AUST on AFC Champions
   Failsafe for COLB on Libertadores/Sudamericana
