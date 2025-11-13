@@ -1859,6 +1859,7 @@
 971,rule_numyellowstored,4
 972,asset_id,211
 972,comp_type,SUPERCUP
+972,match_matchimportance,25
 973,match_stagetype,KO1LEG
 973,match_matchsituation,FINAL
 973,info_prize_money,1500000
@@ -1869,8 +1870,6 @@
 975,comp_type,CUP
 975,match_matchimportance,70
 976,match_stagetype,SETUP
-979,match_stagetype,SETUP
-979,advance_randomdraw,1
 981,match_stagetype,KO1LEG
 981,match_matchsituation,ROUNDX
 981,info_prize_money,25000

@@ -37,6 +37,7 @@ Nextup:
 - As consequence, Adjust Liberadores setup 
 
 v005
+- ITAL Cup Removed Setup Stage 2 to free standings.txt slots 
 - Removed DENM Cup to add BRAZ Cup, Continental competitions setup adjusted
 
 v004
