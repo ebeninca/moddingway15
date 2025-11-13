@@ -33,11 +33,11 @@ Limits:
 ## Modifications list
 
 Nextup:
-- Remove some european cups to create space for ARGE and BRAZ cups
+- Simplify european cups setup to create space for ARGE cups
 - As consequence, Adjust Liberadores setup 
-- Teams with no league assigned (ROTW)
 
 v005
+- Assigned teams with no league and enough players to ROTW (Mostly Greece and Germany div3)
 - Simplified UEFA CL Setup stages to free stadings.txt slots
 - ITAL Cup Removed Setup Stage 2 to free standings.txt slots 
 - Removed DENM Cup to add BRAZ Cup, Continental competitions setup adjusted
