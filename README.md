@@ -30,11 +30,15 @@ Limits:
 - Standings 5278(5274)
 - Tasks 800
 
+
 ## Modifications list
 
 Nextup:
 - Remove some european cups to create space for ARGE and BRAZ cups
 - As consequence, Adjust Liberadores setup 
+
+v005
+- Removed DENM Cup to add BRAZ Cup, Continental competitions setup adjusted
 
 v004
 - CONCA Champions reworked Group Setup 
