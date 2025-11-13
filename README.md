@@ -30,7 +30,6 @@ Limits:
 - Standings 5278(5274)
 - Tasks 800
 
-
 ## Modifications list
 
 Nextup:
@@ -65,7 +64,6 @@ v003
 - CCAF and AFC starting in JUL to fix continental competitions reset
 - Chinese and Korean Leagues renamed
 
-
 v002
 - FIFA WC with Playoff matches and WC Qualifiers tree working.
 - 3 IREL teams on ROTW: Dundalk, Shamrock, Bohemians
@@ -83,20 +81,3 @@ v001
 ## Check compdata usage
 
 wc -l dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compids.txt dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/initteams.txt dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/tasks.txt
-
-------
-AL Ain
-Sepahan
-Al Rayyan
-Tractor Sazi
-Esteghal
-Zob Ahan
-Lokomotiv Tashkent
-2 Saudi
-
-
-S-Hiroshima
-Urawa Reds
-2 China League
-1 KLeague
-1 ALeague
