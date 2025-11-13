@@ -9,15 +9,15 @@ First install:
 
 ## Current used compdata spaces:
 
-  3498 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
+  3424 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
     86 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compids.txt  
-  1725 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
+  1720 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
    304 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/initteams.txt  
   5404 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt  
-  3638 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
-  5277 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
-   789 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/tasks.txt  
- 20721 total
+  3646 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
+  5203 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
+   791 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/tasks.txt  
+ 20578 total
 
 Limits:
 
@@ -35,8 +35,10 @@ Limits:
 Nextup:
 - Remove some european cups to create space for ARGE and BRAZ cups
 - As consequence, Adjust Liberadores setup 
+- Teams with no league assigned (ROTW)
 
 v005
+- Simplified UEFA CL Setup stages to free stadings.txt slots
 - ITAL Cup Removed Setup Stage 2 to free standings.txt slots 
 - Removed DENM Cup to add BRAZ Cup, Continental competitions setup adjusted
 
