@@ -9,15 +9,15 @@ First install:
 
 ## Current used compdata spaces:
 
-  3380 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
-    86 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compids.txt  
-  1718 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
-   304 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/initteams.txt  
-  5404 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt  
-  3645 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
-  5159 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
-   791 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/tasks.txt  
- 20487 total
+  3434 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
+    87 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compids.txt  
+  1753 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
+   305 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/initteams.txt  
+  5414 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt  
+  3690 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
+  5241 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
+   794 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/tasks.txt  
+ 20718 total
 
 Limits:
 
@@ -32,10 +32,8 @@ Limits:
 
 ## Modifications list
 
-Nextup:
-- Create ARGE cup, as consequence, Adjust Liberadores setup 
-
 v005
+- Added ARGE Cup, adjusted Liberadores setup
 - Simplify UEFA Europa league setup stage to create space for ARGE cups
 - Assigned teams with no league and enough players to ROTW (Mostly Greece and Germany div3)
 - Simplified UEFA CL Setup stages to free stadings.txt slots
