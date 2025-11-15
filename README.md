@@ -9,15 +9,15 @@ First install:
 
 ## Current used compdata spaces:
 
-  3434 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
+  3438 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
     87 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compids.txt  
-  1753 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
+  1757 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
    305 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/initteams.txt  
-  5414 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt  
-  3690 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
-  5241 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
+  5416 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt  
+  3696 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
+  5245 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
    794 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/tasks.txt  
- 20718 total
+ 20738 total
 
 Limits:
 
@@ -33,6 +33,7 @@ Limits:
 ## Modifications list
 
 v005
+- Third Place games for Copa America and CAF Cup of Nations
 - Added ARGE Cup, adjusted Liberadores setup
 - Simplify UEFA Europa league setup stage to create space for ARGE cups
 - Assigned teams with no league and enough players to ROTW (Mostly Greece and Germany div3)
