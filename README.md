@@ -8,16 +8,16 @@ First install:
 4. Run CM15 Ultimate ([link](https://www.mediafire.com/file/uy2mwy7cy74a40w/Creation+Master+15+Ultimate.rar/file)) > File / Open Select lan.db > Tools / Regenerate BH > File / Save
 
 ## Current used compdata spaces:
-
-  3438 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
+ 
+  3450 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
     87 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compids.txt  
-  1757 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
+  1763 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
    305 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/initteams.txt  
-  5416 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt  
-  3696 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
-  5245 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
+  5413 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt  
+  3705 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
+  5257 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
    794 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/tasks.txt  
- 20738 total
+ 20774 total
 
 Limits:
 
@@ -33,7 +33,8 @@ Limits:
 ## Modifications list
 
 v005
-- Third Place games for Copa America and CAF Cup of Nations
+- UEFA WC Qualifiers: More groups with playoffs at the end
+- Third place games for Copa America and CAF Cup of Nations
 - Added ARGE Cup, adjusted Liberadores setup
 - Simplify UEFA Europa league setup stage to create space for ARGE cups
 - Assigned teams with no league and enough players to ROTW (Mostly Greece and Germany div3)
