@@ -9,15 +9,15 @@ First install:
 
 ## Current used compdata spaces:
  
-  3450 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
+  3451 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/advancement.txt  
     87 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compids.txt  
-  1763 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
+  1764 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/compobj.txt  
    305 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/initteams.txt  
-  5413 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt  
-  3705 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
-  5257 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
+  5409 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/schedule.txt  
+  3702 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/settings.txt  
+  5258 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/standings.txt  
    794 dlc/dlc_FootballCompEng/dlc/FootballCompEng/data/compdata/tasks.txt  
- 20774 total
+ 20770 total
 
 Limits:
 
@@ -33,6 +33,7 @@ Limits:
 ## Modifications list
 
 v005
+- UEFA Euro Qualifiers: More groups with less teams each
 - UEFA WC Qualifiers: More groups with playoffs at the end
 - Third place games for Copa America and CAF Cup of Nations
 - Added ARGE Cup, adjusted Liberadores setup
